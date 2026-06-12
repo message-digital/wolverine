@@ -257,6 +257,8 @@
     <Project Path="src/Transports/AWS/Wolverine.AmazonSqs/Wolverine.AmazonSqs.csproj" />
   </Folder>
   <Folder Name="/Transports/Azure/">
+    <Project Path="src/Transports/Azure/Wolverine.AzureEventHubs.Tests/Wolverine.AzureEventHubs.Tests.csproj" />
+    <Project Path="src/Transports/Azure/Wolverine.AzureEventHubs/Wolverine.AzureEventHubs.csproj" />
     <Project Path="src/Transports/Azure/Wolverine.AzureServiceBus.Tests/Wolverine.AzureServiceBus.Tests.csproj" />
     <Project Path="src/Transports/Azure/Wolverine.AzureServiceBus/Wolverine.AzureServiceBus.csproj" />
   </Folder>
